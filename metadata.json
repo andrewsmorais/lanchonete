@@ -1,0 +1,6 @@
+{
+  "name": "Thom's Lanches - Cardápio Digital",
+  "description": "Cardápio digital interativo do Thom's Lanches com pedidos diretos via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
