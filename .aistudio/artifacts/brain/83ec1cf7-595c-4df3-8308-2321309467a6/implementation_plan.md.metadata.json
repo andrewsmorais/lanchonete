@@ -1,0 +1,6 @@
+{
+  "summary":  "Plano detalhado de implementação para o Painel Administrativo do Thom's Lanches inspirado no produto validado ChefStart e integração de Robô WhatsApp com IA Gemini. Inclui novo Dashboard Executivo (Ticket Médio, Variação %, Gráfico Semana Passada vs Esta Semana, Donut de Origem dos Pedidos, Estoque Crítico e Mais Vendidos), Controle Visual de Mesas (1 a 10 com tempo de ocupação, comanda aberta e valor), Cardápio/PDV Mobile do Garçom com fotos dos pratos e envio ao KDS, Quadro Kanban de Entregas (Abertas, Em Preparo, Prontas, Enviando, Entregue) e Simulador Interativo do Robô de WhatsApp com Gemini + Guia de Conexão com a Meta Cloud API. Mantém a página inicial do cardápio intocada.",
+  "updatedAt":  "2026-09-26T00:27:17.202412273Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
